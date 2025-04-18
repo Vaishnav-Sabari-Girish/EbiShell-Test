@@ -5,8 +5,9 @@ use std::process::{Child, Command, Stdio};
 use inline_colorization::*;
 
 fn main() {
+    println!("{color_blue} Welcome to EbiShell{color_reset}");
     loop {
-        print!("{color_green}>>> {color_reset}");
+        print!("🐚{color_bright_red} EbiShell{color_reset} 🍤 {color_green}>>> {color_reset}");
         io::stdout().flush().unwrap();
 
         let mut input = String::new();
