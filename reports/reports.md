@@ -11,3 +11,6 @@ These slides contain the reports of all the steps I took while building "EbiShel
 2. Then I started working on adding basic command execution.
 
 3. The shell could now execute basic commands including `ls`, `pwd` etc. 
+
+4. Added Piping capabilities
+
