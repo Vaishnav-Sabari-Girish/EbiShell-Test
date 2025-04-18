@@ -8,4 +8,6 @@ These slides contain the reports of all the steps I took while building "EbiShel
 
 1. I started by adding basic input and output to the shell. For now it could only execute the commands "quit"" and "exit" to  exit the shell. 
 
-2. Then I started working on adding basic command execution. 
+2. Then I started working on adding basic command execution.
+
+3. The shell could now execute basic commands including `ls`, `pwd` etc. 
