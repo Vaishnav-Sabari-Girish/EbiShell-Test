@@ -14,3 +14,10 @@ These slides contain the reports of all the steps I took while building "EbiShel
 
 4. Added Piping capabilities
 
+---
+
+## Day 2: 19/04/2025 (Saturday)
+
+1. Added multiple pipelining capabilities. 
+2. Added history capabilities. 
+3. Added interrupts capabilities. 
